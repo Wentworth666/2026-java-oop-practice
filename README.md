@@ -58,4 +58,10 @@
 最后更新：2026-03-03
 
 Made with ❤️ by Wentworth（重庆商务职业学院 大一大数据）
-```
+
+
+## 2026-03-04 更新 - chapter03
+- Product 类案例：Scanner 输入商品信息 + 数组存储 + 计算小计/总价 + 漂亮小票打印
+- NewCustomer 类：私有属性 + set/get 封装 + 构造函数 + getInfo() 打印信息
+- 修复问题：src 未标记 Sources Root + JDK 未定义 + 控制台中文乱码
+- 项目运行正常，控制台输出中文无乱码
