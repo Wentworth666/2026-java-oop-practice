@@ -67,6 +67,7 @@ class Product {
     }
 
     public int getNum() {
+
         return num;
     }
 }
