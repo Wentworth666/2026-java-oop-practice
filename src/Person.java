@@ -1,5 +1,4 @@
 public class Person {
-    public class Person {
         String name;   // 属性
         int age;
 
@@ -8,11 +7,11 @@ public class Person {
         }
 
         public static void main(String[] args) {
-            Person zhangsan = new Person();  // 创建对象
+            Person zhangsan = new Person();  // 创建对xiang
             zhangsan.name = "张三";
             zhangsan.age = 20;
             zhangsan.eat();  // 调用方法
         }
     }
 
-}
+
