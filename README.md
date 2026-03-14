@@ -1,3 +1,4 @@
+**Part of main portfolio:** [wentworth-ai-projects](https://github.com/Wentworth666/wentworth-ai-projects)
 # 2026 面向对象程序设计 - Java 实践仓库
 
 **课程**：《面向对象程序设计》（黑马程序员 Java 基础版）  
